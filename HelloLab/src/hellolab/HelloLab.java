@@ -16,7 +16,8 @@ public class HelloLab {
         String x="Jake Mednikov";
         System.out.println("Hello,my name is Jake Mednikov, and"
                 + " welcome to the hellish world that is java.");
-        System.out.println("this is a test of travis to make sure this works ");
+        System.out.println("this is a test of travis to make sure this works "+
+                "hopefully it does");
     }
     
 }
